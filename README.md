@@ -1,2 +1,2 @@
 # photoshap
-tiny pyton-based image edition software
+tiny python-based image edition software
